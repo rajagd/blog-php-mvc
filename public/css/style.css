@@ -14,6 +14,19 @@ p {
 	color: black;
 }
 
+.p-article {
+border-width:1px;
+border-style:dotted;
+border-color:black;
+}
+
+#p-article {
+ border-width:1px;
+ border-style:dotted;
+ border-color:black;
+ margin-bottom: 20px;
+}
+
 .btn {
 	margin-left: 110px;
 	margin-top: -45px;
