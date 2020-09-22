@@ -22,6 +22,7 @@
         <li class="nav-item active">
           <a class="nav-link" href="index.php">Accueil <span class="sr-only">(current)</span></a>
         </li>
+        <?php
         <li class="nav-item">
           <a class="nav-link" href="#">Déconnexion</a>
         </li>
